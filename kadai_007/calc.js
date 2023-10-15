@@ -1,4 +1,4 @@
-let num = Math.floor(Math.random() * 30);
+let num = Math.floor(Math.random() * 31);
 
 if (num % 3 == 0) {
 	console.log(num);

@@ -8,11 +8,8 @@ for (let i = 0; i <= 15; i++) {
 }
 
 i = 0;
-while (i <= holidays.length) {
+while (i <= 15) {
 	console.log (holidays[i]);
 	i++;
-	if (i >= holidays.length) {
-		break;
-	}
 }
 
